@@ -1,6 +1,7 @@
 import yfinance as yf
 import pandas as pd
 import stringcase
+import csv
 
 ip = input("Enter the name of the coin: \n")
 camel_ip = stringcase.capitalcase(ip)
@@ -19,7 +20,24 @@ if item_count == 0:
     print("Error!")
 else:
     ticker = ticker_list['symbol'][item_count]
-    print(ticker)
+
+print(ticker)
+
+
+coin = yf.Ticker(ticker)
+info = coin.info
+hist = coin.history(period="max")
+
+with open('info.csv', 'w') as f:
+    for key in info.keys():
+        f.write("%s,%s\n"%(key,info[key]))
+
+data = pd.DataFrame(data=hist)
+print(data)
+# data.to_csv("hist.csv")
+
+
+
 
 
 

@@ -1,0 +1,114 @@
+exchange,PCX
+shortName,ClearShares Piton Intermediate 
+longName,ClearShares Piton Intermediate Fixed Income ETF
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,BTC
+messageBoardId,finmb_683247102
+market,us_market
+annualHoldingsTurnover,None
+enterpriseToRevenue,None
+beta3Year,None
+profitMargins,None
+enterpriseToEbitda,None
+52WeekChange,None
+morningStarRiskRating,None
+forwardEps,None
+revenueQuarterlyGrowth,None
+fundInceptionDate,1601510400
+annualReportExpenseRatio,None
+totalAssets,32238336
+bookValue,None
+fundFamily,ClearShares
+lastFiscalYearEnd,None
+netIncomeToCommon,None
+trailingEps,None
+lastDividendValue,None
+SandP52WeekChange,None
+priceToBook,None
+nextFiscalYearEnd,None
+yield,None
+mostRecentQuarter,None
+enterpriseValue,None
+priceHint,2
+threeYearAverageReturn,None
+lastSplitDate,None
+lastSplitFactor,None
+legalType,Exchange Traded Fund
+lastDividendDate,None
+morningStarOverallRating,None
+earningsQuarterlyGrowth,None
+priceToSalesTrailing12Months,None
+pegRatio,None
+ytdReturn,None
+forwardPE,None
+maxAge,1
+lastCapGain,None
+category,None
+fiveYearAverageReturn,None
+phone,800-617-0004
+longBusinessSummary,The investment seeks current income consistent with the long term preservation of capital.
+ The fund is an actively managed exchange-traded fund ("ETF") that seeks to achieve its investment objective by investing, under normal market conditions, at least 80% of its net assets (plus borrowings for investment purposes) in debt securities and in derivatives and other instruments that have economic characteristics similar to such securities. It principally invests in U.S.-dollar denominated, investment-grade securities and seeks to typically maintain a dollar-weighted average portfolio maturity of zero to ten years. The fund is non-diversified.
+companyOfficers,[]
+previousClose,99.1475
+regularMarketOpen,99.2
+twoHundredDayAverage,99.17515
+trailingAnnualDividendYield,None
+payoutRatio,None
+volume24Hr,None
+regularMarketDayHigh,99.1568
+navPrice,99.52
+averageDailyVolume10Day,2418
+regularMarketPreviousClose,99.1475
+fiftyDayAverage,99.25348
+trailingAnnualDividendRate,None
+open,99.2
+toCurrency,None
+averageVolume10days,2418
+expireDate,None
+algorithm,None
+dividendRate,None
+exDividendDate,None
+beta,None
+circulatingSupply,None
+startDate,None
+regularMarketDayLow,99.07
+currency,USD
+regularMarketVolume,2968
+lastMarket,None
+maxSupply,None
+openInterest,None
+marketCap,None
+volumeAllCurrencies,None
+strikePrice,None
+averageVolume,869
+dayLow,99.07
+ask,102
+askSize,1800
+volume,2968
+fiftyTwoWeekHigh,100.89
+fromCurrency,None
+fiveYearAvgDividendYield,None
+fiftyTwoWeekLow,98.4773
+bid,0
+tradeable,False
+dividendYield,None
+bidSize,800
+dayHigh,99.1568
+preferredPosition,None
+bondPosition,0.94089997
+convertiblePosition,None
+sectorWeightings,[{'realestate': 0}, {'consumer_cyclical': 0}, {'basic_materials': 0}, {'consumer_defensive': 0}, {'technology': 0}, {'communication_services': 0}, {'financial_services': 0}, {'utilities': 0}, {'industrials': 0}, {'energy': 0}, {'healthcare': 0}]
+holdings,[{'symbol': '', 'holdingName': 'Federal Home Loan Banks 3.25%', 'holdingPercent': 0.0354}, {'symbol': 'OPER', 'holdingName': 'ClearShares Ultra-Short Maturity ETF', 'holdingPercent': 0.0312}, {'symbol': '', 'holdingName': 'Federal Home Loan Mortgage Corporation 0.12%', 'holdingPercent': 0.031}, {'symbol': '', 'holdingName': 'United States Treasury Notes 0.12%', 'holdingPercent': 0.031}, {'symbol': '', 'holdingName': 'Federal Home Loan Mortgage Corporation 0.38%', 'holdingPercent': 0.0307}, {'symbol': '', 'holdingName': 'United States Treasury Notes 0.25%', 'holdingPercent': 0.0305}, {'symbol': '', 'holdingName': 'Federal National Mortgage Association 0.75%', 'holdingPercent': 0.024300002}, {'symbol': '', 'holdingName': 'J.M. Smucker Company 3.5%', 'holdingPercent': 0.0221}, {'symbol': '', 'holdingName': 'SALT LAKE CITY UTAH REDEV AGY TAX INCREMENT REV 5.11%', 'holdingPercent': 0.0207}, {'symbol': '', 'holdingName': 'Pfizer Inc. 2.75%', 'holdingPercent': 0.0198}]
+bondHoldings,{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}
+bondRatings,[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]
+equityHoldings,{'priceToCashflow': 0, 'priceToSales': 0, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 0, 'priceToBook': 0, 'priceToSalesCat': None, 'priceToCashflowCat': None}
+otherPosition,None
+cashPosition,None
+stockPosition,0
+regularMarketPrice,99.11
+preMarketPrice,None
+logo_url,
